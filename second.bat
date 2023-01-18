@@ -1,2 +1,2 @@
 @echo off
-echo "Hello Jenkins with second bat"
+echo "Hello Jenkins Automation with second bat"
